@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "960480939653",
+    "firebase_url": "https://agrobot-832c9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agrobot-832c9",
+    "storage_bucket": "agrobot-832c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960480939653:android:17da574f67aec95849a3ec",
+        "android_client_info": {
+          "package_name": "com.example.agroapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtK4akJVJSOdRh5M8KYdkBsk0o3LjcbZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

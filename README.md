@@ -1,6 +1,6 @@
 # agroapp
 
-A new Flutter project.
+A new Flutter project. That gets data from Realtime Database in firebase and reflects it on an app made using flutter.
 
 ## Getting Started
 
